@@ -1,4 +1,6 @@
-### Hi 👋 I'm Valerio Viale
+### 
+<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">💫 Hi 👋 I'm Valerio Viale</h1><a id="user-content--tech-stack" class="anchor" aria-label="Permalink: 💻 Tech Stack:" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto">
 
 <!--
 **valerioviale/valerioviale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💫 About Me:
 
 I am a Sales Professional, passionate about exploring the realms of coding, machine learning, web scraping, predictive analysis, teaching.
 
 Check out my  <a href="https://github.com/valerioviale?tab=repositories" rel="nofollow"> projects </a>!
 
-Let's play some 🕹️🧱 <a href="https://valerioviale.github.io/Tetris_Javascript/" rel="nofollow">Tetris!</a>
+Let's play some 🕹️🧱 <a href="https://valerioviale.github.io/Tetris_Javascript/" rel="nofollow">Tetris</a>!
 
 💻 Visualize your <a href="https://github.com/valerioviale/visualize_linkedin_connections" rel="nofollow">LinkedIn connections</a>
 
@@ -31,7 +32,9 @@ Let's play some 🕹️🧱 <a href="https://valerioviale.github.io/Tetris_Javas
 
 
 
-🎓 About Me
+
+<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">🎓 More about Me:</h1><a id="user-content--tech-stack" class="anchor" aria-label="Permalink: 💻 Tech Stack:" href="#-tech-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto">
 
 I'm also an educational coding content creator, sharing my coding passion:
 

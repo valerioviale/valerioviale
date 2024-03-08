@@ -22,15 +22,15 @@ I am a Sales Professional, passionate about exploring the realms of coding, mach
 
 Check out my projects!
 
-Let's play some 🕹️🧱 <a href="https://valerioviale.github.io/Tetris_Javascript/" rel="nofollow">Tetris</a>!
+Let's play some 🕹️🧱 <a href="https://valerioviale.github.io/Tetris_Javascript/" rel="nofollow" target="_blank">Tetris</a>!
 
-💻 Visualize your <a href="https://github.com/valerioviale/visualize_linkedin_connections" rel="nofollow">LinkedIn connections</a>
+💻 Visualize your <a href="https://github.com/valerioviale/visualize_linkedin_connections" rel="nofollow" target="_blank">LinkedIn connections</a>
 
-🤖 Create with Python a <a href="https://github.com/valerioviale/MaterialityMatrix" rel="nofollow">Materiality Matrix</a>
+🤖 Create with Python a <a href="https://github.com/valerioviale/MaterialityMatrix" rel="nofollow" target="_blank">Materiality Matrix</a>
 
-💬 Send automated message to your <a href="https://github.com/valerioviale/LinkedinAutomation" rel="nofollow">LinkedIn connections</a>
+💬 Send automated message to your <a href="https://github.com/valerioviale/LinkedinAutomation" rel="nofollow" target="_blank">LinkedIn connections</a>
 
-...and much more <a href="https://github.com/valerioviale?tab=repositories" rel="nofollow">repositories</a>!
+...and much more <a href="https://github.com/valerioviale?tab=repositories" rel="nofollow" target="_blank">repositories</a>!
 
 
 

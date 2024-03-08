@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 💫 About Me:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValerioViale)](https://github.com/valerioviale/github-readme-stats)
+
 I am a Sales Professional, passionate about exploring the realms of coding, machine learning, web scraping, predictive analysis, teaching.
 
 Check out my  <a href="https://github.com/valerioviale?tab=repositories" rel="nofollow"> projects </a>!

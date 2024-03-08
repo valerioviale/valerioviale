@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I am a Sales Professional, passionate about exploring the realms of coding, machine learning, web scraping, predictive analysis, teaching.
 
-Check out my  <a href="https://github.com/valerioviale?tab=repositories" rel="nofollow"> projects </a>!
+Check out my projects!
 
 Let's play some 🕹️🧱 <a href="https://valerioviale.github.io/Tetris_Javascript/" rel="nofollow">Tetris</a>!
 
@@ -29,6 +29,8 @@ Let's play some 🕹️🧱 <a href="https://valerioviale.github.io/Tetris_Javas
 🤖 Create with Python a <a href="https://github.com/valerioviale/MaterialityMatrix" rel="nofollow">Materiality Matrix</a>
 
 💬 Send automated message to your <a href="https://github.com/valerioviale/LinkedinAutomation" rel="nofollow">LinkedIn connections</a>
+
+...and much more <a href="https://github.com/valerioviale?tab=repositories" rel="nofollow">repositories</a>!
 
 
 

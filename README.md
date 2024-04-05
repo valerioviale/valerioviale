@@ -22,7 +22,7 @@ I am a Sales Professional, passionate about exploring the realms of coding, mach
 
 Check out my projects!
 
-Let's play some 🕹️🧱 <a href="https://valerioviale.github.io/Tetris_Javascript/" rel="nofollow" target="_new">Tetris</a>!
+Let's play some 🕹️🧱 <a href="https://valerioviale.github.io/Tetris_Javascript/" rel="nofollow" target="_new">Tetris (Desktop version) </a>!
 
 💻 Visualize your <a href="https://github.com/valerioviale/visualize_linkedin_connections" rel="nofollow" target="_new">LinkedIn connections</a>
 

@@ -44,7 +44,7 @@ My Courses on <a href="https://valerioviale.thinkific.com/" rel="nofollow">Think
 
 My <a href="https://www.youtube.com/channel/UCFuePiEkhPpDHf8ODyM9Ppw" rel="nofollow">YouTube Channel </a>
 
-Courses I teach on <a href="https://www.udemy.com/user/valerio-viale/" rel="nofollow">Udemy</a>
+Coding Courses I teach on <a href="https://www.udemy.com/user/valerio-viale/" rel="nofollow">Udemy (More than 25.000 students!)</a>
 
 
 
